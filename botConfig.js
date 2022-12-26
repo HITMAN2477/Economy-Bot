@@ -5,7 +5,7 @@ module.exports = {
         "951848862589526057"
 ],
     debug: true,
-    countChannel: "countChannelID"
+    countChannel: "1032594782884741172"
 };
 
 
