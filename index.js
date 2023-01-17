@@ -41,7 +41,7 @@ fs.readdir("./commands/", (err, files) => {
     });
 });
 
-//Coded By Unknown Dev
+//Coded By JACK Dev
 
 
-client.login("");
+client.login("MTAwMzMxNDk3ODAyNTExMTY1NQ.G6VR-H.ViLvDkmXBN42Qh_7WbCYo-gMLVnM0VT2Nr-Y6U");
